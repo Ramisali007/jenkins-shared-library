@@ -1,0 +1,11 @@
+# Jenkins Shared Library
+# Usually Groovy files, no specific compiled artifacts unless using Gradle/Maven
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.pem
+*.key
+.env
